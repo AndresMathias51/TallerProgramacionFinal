@@ -2,5 +2,6 @@
     gap: 12px;
     display: flex;
     flex-direction: column;
-    
+    width: 364px;
+    margin-top: 20px;
 }
