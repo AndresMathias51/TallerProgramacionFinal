@@ -21,17 +21,18 @@
     align-items: start;
     justify-content: center;
     gap: 2px;
+    height: fit-content;
 }
 .nombre{
     color: rgba(255, 255, 255, 1);
     font-size: 18px;
     font-weight: 700;
+    height: 29px;
+    margin: 0;
 }
 .repeticiones{
     color: rgba(196, 196, 204, 1);
     font-size: 14px;
     font-weight: 400;
-}
-.botonFlecha:hover{
-    cursor: pointer;
+    height: 22px;
 }

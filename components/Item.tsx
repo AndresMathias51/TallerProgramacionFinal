@@ -17,9 +17,7 @@ const Item = ({ imagen, nombre }: Props) => {
                 <span className={styles.repeticiones}>3 séries x 12 repetições</span>
             </div>
         </div>
-        <button className={styles.botonFlecha}>
-            <Image src={iconoFlecha} alt="flecha" width={24} height={24}/>
-        </button>
+        <Image src={iconoFlecha} alt="flecha" width={24} height={24}/>
     </div>
   )
 }
